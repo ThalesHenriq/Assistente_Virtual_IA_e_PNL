@@ -58,9 +58,9 @@ function takeCommand(message) {
     window.open("https://facebook.com", "_blank");
     speak("abrindo Facebook...");
   } else if (
-    message.includes("what is") ||
-    message.includes("who is") ||
-    message.includes("what are")
+    message.includes("o que é") ||
+    message.includes("quem é") ||
+    message.includes("o que são")
   ) {
     window.open(
       `https://www.google.com/search?q=${message.replace(" ", "+")}`,
