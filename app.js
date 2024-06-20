@@ -18,9 +18,9 @@ function wishMe() {
   if (hour >= 0 && hour < 12) {
     speak("bom dia chefe...");
   } else if (hour >= 12 && hour < 17) {
-    speak("Boa tarde Master...");
+    speak("Boa tarde Mestre...");
   } else {
-    speak("Boa noite Senhor THALES...");
+    speak("Boa noite Senhor ...");
   }
 }
 
