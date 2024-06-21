@@ -1,4 +1,4 @@
-#BUG um assistente virtual
+# BUG um assistente virtual
 
 
 Neste projeto fiz o uso de conceitos importantes como IA, PNL e conversão de texto um assistente virtual inspirado em alguns como Siri, Alexa e google. 
