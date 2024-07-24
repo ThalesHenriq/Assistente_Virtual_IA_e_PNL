@@ -73,8 +73,12 @@
     font-size: 20px;
     color: #000;
 }
-.footer-container{
+.footer-container{
+    background:transparente;
     color:#fff;
+    aligb-items:center;
+
+
 }
 
 .footer-box{
