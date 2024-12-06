@@ -1,11 +1,24 @@
-# BUG um assistente virtual
+# Assistente Virtual com IA e PNL
+# Descrição
+Este projeto implementa um assistente virtual inspirado em outros populares como Siri, Alexa e Google Assistant. Utilizando conceitos de Inteligência Artificial (IA) e Processamento de Linguagem Natural (PNL), o assistente virtual é capaz de converter fala em texto, responder a comandos de voz e interagir de maneira eficiente com o usuário.
 
+# Funcionalidades
+Conversão de Fala em Texto: Utiliza a API SpeechSynthesis para converter fala em texto.
 
-Neste projeto fiz o uso de conceitos importantes como IA, PNL e conversão de texto um assistente virtual inspirado em alguns como Siri, Alexa e google. 
-Usando uma api SpeechSynthesis ela converte fala em texto, usando a variavel text_speak criada com SpeechSynthesisUtterance ele atribui o valor a funçao text_speak.
-Tambem foi criada a funçao wishMe para buscar data e hora atuais do navegador usando o metodo Gethour.
-Tambem foi criada outra funçoes para que ele responda perguntados de forma mais simples como um bom dia, cada variavel deve ser transformada em texto minusculas com transcrição. tolowercase(), e um botao foi criado para ativar o microfone e iniciar o reconhecimente da fala do usuario, isso ativara as condiçoes if e else criadas, porem tambem existem respostas relevantes para que o usuario nao fique sem resposta
+Respostas Personalizadas: Responde a comandos simples como "Bom dia" com respostas adequadas.
 
+Interação Dinâmica: Ativa o microfone através de um botão e reconhece a fala do usuário, iniciando as condições if e else definidas.
+
+Função wishMe: Busca a data e hora atuais do navegador usando o método getHour para fornecer saudações contextuais.
+
+# Tecnologias Utilizadas
+HTML: Estrutura da aplicação web.
+
+CSS: Estilização e design responsivo da aplicação.
+
+JavaScript: Lógica de conversão de fala em texto e resposta a comandos de voz.
+
+API SpeechSynthesis: Para conversão de texto em fala e vice-versa.
 
 https://thaleshenriq.github.io/assistente_virtual/
 
