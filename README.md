@@ -20,6 +20,7 @@ JavaScript: Lógica de conversão de fala em texto e resposta a comandos de voz.
 
 API SpeechSynthesis: Para conversão de texto em fala e vice-versa.
 
-https://thaleshenriq.github.io/assistente_virtual/
+https://thaleshenriq.github.io/Assistente_Virtual_IA_e_PNL/
+
 
 ![bug](https://github.com/ThalesHenriq/assistente_virtual/assets/125931825/e5ecbe87-8dd2-467f-ab8c-4e60dab69568)
